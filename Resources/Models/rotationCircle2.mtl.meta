@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a83cf80d102bcff44b252ebfd905da9f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/Models/rotationCircle2.mtl
+  uploadId: 653421

@@ -1,0 +1,22 @@
+{
+  "name": "com.unityessentials.runtimegizmo",
+  "version": "1.0.0",
+  "displayName": "UnityEssentials RuntimeGizmo",
+  "description": "This is a part of the UnityEssentials Ecosystem",
+  "unity": "2022.1",
+  "unityRelease": null,
+  "dependencies": {
+    "com.unityessentials.core": "1.0.0"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Unity Essentials",
+    "email": null,
+    "url": null
+  },
+  "documentationUrl": null,
+  "changelogUrl": null,
+  "licensesUrl": null,
+  "samples": [],
+  "hideInEditor": true
+}

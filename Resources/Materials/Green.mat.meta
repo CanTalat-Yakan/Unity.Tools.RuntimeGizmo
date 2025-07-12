@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ee6b8e5b74be4f5993c3e5b2831948a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/Materials/Green.mat
+  uploadId: 653421

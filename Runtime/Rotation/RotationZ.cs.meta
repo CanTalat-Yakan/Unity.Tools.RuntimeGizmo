@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 92f590b13a3c4414f9b5347f2131e5c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/Scripts/RotationZ.cs
+  uploadId: 653421

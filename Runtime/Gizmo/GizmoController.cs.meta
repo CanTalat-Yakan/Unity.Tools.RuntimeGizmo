@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5445ad6ba0f4fbb46bb37f256f230cb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -5
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/Scripts/GizmoController.cs
+  uploadId: 653421

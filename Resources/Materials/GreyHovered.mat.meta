@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa9a777d7d9eae4479340b64b28e05fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/Materials/GreyHovered.mat
+  uploadId: 653421

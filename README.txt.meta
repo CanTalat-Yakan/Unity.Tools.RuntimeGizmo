@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 303305298d0f9c74884824f03259f816
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/README.txt
+  uploadId: 653421

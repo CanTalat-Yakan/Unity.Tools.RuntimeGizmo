@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7222a1d1f9e86b4e989fa621985dc97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/Gizmo.prefab
+  uploadId: 653421

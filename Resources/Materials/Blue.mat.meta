@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6df80aa0b92f78e409f44dddf3e3ea62
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280708
+  packageName: Transform Gizmos
+  packageVersion: 1.0
+  assetPath: Assets/Transform Gizmos/Materials/Blue.mat
+  uploadId: 653421
